@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Edited by Ogechi Grace Egbodo
+Edited by Trivancee
 
 This repository hosts the code for the StegTechHub tooling website. The website provides a centralized platform for accessing various development tools and resources.
 
